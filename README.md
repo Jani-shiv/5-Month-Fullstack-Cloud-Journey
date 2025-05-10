@@ -3,7 +3,7 @@
 
 Welcome to **my journey** to becoming a **Fullstack Developer** and a **Cloud Engineer**! This repository documents my **5-month daily journey**, where I’ll be building projects, learning tech stacks, and sharing insights on everything from **Frontend**, **Backend**, to **Cloud** infrastructure.
 
-![Repo Banner](https://github.com/Jani-shiv/5-Month-Fullstack-Cloud-Journey/image/banner.png)
+![Repo Banner](https://github.com/Jani-shiv/5-Month-Fullstack-Cloud-Journey/blob/main/image/banner.png)
 
 ---
 
@@ -115,7 +115,7 @@ Here are the **final projects** I’ll be building during this journey. These wi
 2. **MERN Blog** - MongoDB, Express, React, Node  
 3. **Cloud Resume** - Hosted on **AWS** (EC2, S3, IAM)
 
-![Project GIF](https://media.giphy.com/media/3o6MbbnoSiWac7hN6w/giphy.gif)
+![Project GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTMzNjV2a3h3cGNjdWR0d3Zmc21pMzhsaWZiMnVsOGExOTRjMGQwaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9OsrJZ1ZBN9E2xqBcM/giphy.gif)
 
 ---
 
