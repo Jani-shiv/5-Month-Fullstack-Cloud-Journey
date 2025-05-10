@@ -3,7 +3,7 @@
 
 Welcome to **my journey** to becoming a **Fullstack Developer** and a **Cloud Engineer**! This repository documents my **5-month daily journey**, where I’ll be building projects, learning tech stacks, and sharing insights on everything from **Frontend**, **Backend**, to **Cloud** infrastructure.
 
-![Repo Banner](https://github.com/Jani-shiv/5-Month-Fullstack-Cloud-Journey/image/banner)
+![Repo Banner](https://github.com/Jani-shiv/5-Month-Fullstack-Cloud-Journey/image/banner.png)
 
 ---
 
