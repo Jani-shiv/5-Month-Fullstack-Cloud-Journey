@@ -110,12 +110,13 @@ Welcome to my **Fullstack + Cloud Development Journey**! Below is the **monthly 
 
 ## 🚀 **Projects Built During the Journey**  
 Here are the **final projects** I’ll be building during this journey. These will be **live demos** and hosted on **AWS**.
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzYydGI4aTN6cGswZnVrcXRscTRjZXFhbGNmMXU3cTVwNHg4cTI3bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnqUxyWbsAXq7Ju/giphy.gif"
+  align="right" width="100" height="100">
 1. **Personal Portfolio** - HTML/CSS/JS  
 2. **MERN Blog** - MongoDB, Express, React, Node  
 3. **Cloud Resume** - Hosted on **AWS** (EC2, S3, IAM)
 
-![Project GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTMzNjV2a3h3cGNjdWR0d3Zmc21pMzhsaWZiMnVsOGExOTRjMGQwaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9OsrJZ1ZBN9E2xqBcM/giphy.gif)
+
 
 ---
 
@@ -148,6 +149,5 @@ Here are the **final projects** I’ll be building during this journey. These wi
 
 > **Consistency is the key to mastery 🔑 — Let’s build every day and level up!**  
 
+
 ---
-
-
